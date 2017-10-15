@@ -1,5 +1,6 @@
 # <font color="blue">中英文概念对照表</font>
 ## <font color="green">机器学习</font>
+### <font color="red">第一章</font>
 English | Chinese | English | Chinese 
 ----|----|-----|
 feature | 特征 | induction | 归纳
@@ -22,7 +23,23 @@ generalization | 泛化 | specialization | 特化
 distribution | 分布 | Occam's razor | 奥卡姆剃刀
 independent and <br>identically distributed | 独立同分布 | overfitting/underfitting | 过拟合/欠拟合
 
-
+### <font color="red">第二章</font>
+English | Chinese | English | Chinese 
+--------|---------|---------|--------
+hold-out | 留出法 | binomial test | 二项检验
+stratified sampling | 分层采样 | confidence | 置信度 
+cross validation | 交叉验证法 | 
+parameter tuning | 调参 |
+mean squared error | 均方误差 |
+precision | 查准率 |
+recall | 查全率 |
+TRUE positive | 真正例 |
+FALSE positive | 反正例 |
+TRUE negative | 真反例 |
+FALSE negative | 假反例 |
+BEP break-even point | 平衡点 |
+ROC Receiver <br>operating characteristic | 受试者工作特征
+AUC area under curve | ROC曲线下面积 |  
 
 
 
