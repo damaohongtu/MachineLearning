@@ -1,8 +1,9 @@
 # <font color="blue">中英文概念对照表</font>
 ## <font color="green">机器学习</font>
 ### <font color="red">第一章</font>
+
 English | Chinese | English | Chinese 
-----|----|-----|
+----|----|-----|-------
 feature | 特征 | induction | 归纳
 attribute | 属性 | deduction | 演绎
 feature vector | 特征向量 | <a href="https://en.wikipedia.org/wiki/No_free_lunch_theorem">No free lunch theorem</a> | 没有免费的午餐定理
@@ -28,18 +29,18 @@ English | Chinese | English | Chinese
 --------|---------|---------|--------
 hold-out | 留出法 | binomial test | 二项检验
 stratified sampling | 分层采样 | confidence | 置信度 
-cross validation | 交叉验证法 | 
-parameter tuning | 调参 |
-mean squared error | 均方误差 |
-precision | 查准率 |
-recall | 查全率 |
-TRUE positive | 真正例 |
-FALSE positive | 反正例 |
-TRUE negative | 真反例 |
-FALSE negative | 假反例 |
-BEP break-even point | 平衡点 |
-ROC Receiver <br>operating characteristic | 受试者工作特征
-AUC area under curve | ROC曲线下面积 |  
+cross validation | 交叉验证法 | bias-variance | 偏差方差分解
+parameter tuning | 调参 | bias-variance <br>dilemma |偏差方差窘境
+mean squared error | 均方误差 | estimation | 估计
+precision | 查准率 | multivariate linear regression | 多元线性回归
+recall | 查全率 | full-rank matrix |满秩矩阵
+TRUE positive | 真正例 | positive definite matrix | 正定矩阵
+FALSE positive | 反正例 | regularization | 正则化
+TRUE negative | 真反例 | odds | 几率
+FALSE negative | 假反例 | maximum likelihood method | 极大似然法
+BEP break-even point | 平衡点 | gradient descent method | 梯度下降法
+ROC Receiver <br>operating characteristic | 受试者工作特征 | Newton method | 牛顿法
+AUC area under curve | ROC曲线下面积 |  logistic function | 对数几率函数
 
 
 
