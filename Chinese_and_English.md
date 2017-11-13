@@ -41,11 +41,7 @@ FALSE negative | 假反例 | maximum likelihood method | 极大似然法
 BEP break-even point | 平衡点 | gradient descent method | 梯度下降法
 ROC Receiver <br>operating characteristic | 受试者工作特征 | Newton method | 牛顿法
 AUC area under curve | ROC曲线下面积 |  logistic function | 对数几率函数
-
-
-
-
-
-
+SGD(stochastic gradient descent ) | 随机梯度下降 | BP(back propagation ) | 反向传播
+sparse coding | 稀疏编码 | 
 
 ## <font color="green">深度学习</font>
