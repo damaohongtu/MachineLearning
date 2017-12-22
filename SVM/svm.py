@@ -8,10 +8,12 @@ import numpy as np
 import pylab as pl
 from sklearn import svm
 
+#产生数据，随机数
 np.random.seed(100)
 X=np.r_[np.random.randn(20,2)-[2,2],np.random.randn(20,2)+[2,2]]
 Y=[0]*20+[1]*20
 
+#使用svm
 clf=svm.SVC(kernel='linear')
 clf.fit(X,Y)
 
@@ -38,11 +40,3 @@ pl.scatter(clf.support_vectors_[:,0],clf.support_vectors_[:,-1],s=80,facecolors=
 pl.scatter(X[:,0],X[:,-1],c=Y,cmap=pl.cm.Paired)    #scatter显示出离散的点
 pl.axis('tight')
 pl.show()
-
-
-
-
-
-
-
-
