@@ -8,4 +8,5 @@
 ## <a href="HierarchicalClustering">06.Hierarchical clustering层次聚类</a>
 ## <a href="PCA">07.PCA</a>
 ## <a href="GMM">08.GMM</a>
-## <a href="NeuralNetwork">09.神经网络算法</a>
+## <a href="Graphical-Models">09.概率图模型</a>
+## <a href="NeuralNetwork">10.神经网络算法</a>
