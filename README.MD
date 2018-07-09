@@ -1,5 +1,6 @@
 # 机器学习基础与实现
 ## <a href="basics">00.基础知识</a>
+## <a href="NaiveBayes">01.朴素贝叶斯(以词汇歧义消解为例)</a>
 ## <a href="DecisionTree">01.决策树算法及应用</a>
 ## <a href="KNN">02.最邻近规则分类KNN算法</a>
 ## <a href="SVM">03.支持向量机</a>
