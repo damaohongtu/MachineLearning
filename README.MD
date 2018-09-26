@@ -11,3 +11,4 @@
 ## <a href="GMM">08.GMM</a>
 ## <a href="Graphical-Models">09.概率图模型</a>
 ## <a href="NeuralNetwork">10.神经网络算法</a>
+## <a href="ensemble">11.集成学习</a>
